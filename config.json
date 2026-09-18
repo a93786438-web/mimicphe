@@ -1,0 +1,6 @@
+{
+    "listen_host": "127.0.0.1",
+    "listen_port": 8080,
+    "target_url": "http://127.0.0.1:5000",
+    "ssl_verify": false
+}
