@@ -1,5 +1,4 @@
-تفضلي هذا النص الجاهز والمنسق خصيصاً ليكون ملف **README.md** احترافياً ومناسباً لمشروعك على GitHub، مكتوباً دفعة واحدة لتستطيعي نسخه ولصقه مباشرة:
-```markdown
+
 # MimicPhish Framework 🛡️
 
 An educational, pure Python-based reverse proxy framework designed to demonstrate Adversary-in-the-Middle (AiTM) MFA-relaying mechanics in an isolated, local lab environment.
